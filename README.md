@@ -15,7 +15,13 @@ padding-top: relleno en la parte superior
 padding-right: relleno a la derecha
 padding-bottom: relleno en la parte inferior
 padding-left: rellno en la parte izquierda 
-(este relleno se genera dentro de la caja no por fuera)
+(este relleno se genera dentro de la caja)
+
 se puede abreviar las  cuadro propiedades juntas usando solo padding
 padding: top right bottom left
+
+Usando 3 valores, el primer valor se aplica arriba, el segundo se aplica a la izquierda y derecha y el terceto se aplica abajo
+padding: top-bottom right-left
+
+Usando 1 valor se aplica a tos los lados de igual manera 
 
