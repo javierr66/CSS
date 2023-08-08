@@ -1,4 +1,12 @@
 # CSS
+es Css la Cajas o Box esta devididas en tres capaz:
+1) contenido
+2) padding
+3) border
+
+CONTENIDO 
+en el contenido podemos agregar diferentes propiedades.
+
 width: define el ancho del elemento.
 max-width: define el ancho maximo del elemento (no puede sobrepasar este ancho)
 min-width: define un ancho minimo del elemento (no puede medir menos de este ancho).
@@ -9,6 +17,7 @@ min-height: define el alto minimo de un elemento (no puede medir menos de este a
 
 overflow;hidden; esconde lo que se desborda
 
+PADDING
 padding: relleno que separa el contenido del border
 
 padding-top: relleno en la parte superior
@@ -24,4 +33,7 @@ Usando 3 valores, el primer valor se aplica arriba, el segundo se aplica a la iz
 padding: top-bottom right-left
 
 Usando 1 valor se aplica a tos los lados de igual manera 
+BORDER
+
+
 
