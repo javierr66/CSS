@@ -1,4 +1,5 @@
 # CSS
+
 es Css la Cajas o Box esta devididas en tres capaz:
 1) contenido
 2) padding
@@ -35,5 +36,12 @@ padding: top-bottom right-left
 Usando 1 valor se aplica a tos los lados de igual manera 
 BORDER
 
+border-color: cambio de color
+borde-width: define el ancho del border
+border-style: define el estilo del border(solid, )
 
 
+
+
+usar esta pagina para mas detalles
+https://developer.mozilla.org/es/docs/Web/CSS/border-style
