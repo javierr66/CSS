@@ -19,7 +19,7 @@ min-height: define el alto minimo de un elemento (no puede medir menos de este a
 overflow;hidden; esconde lo que se desborda
 
 shorthand: permiten establecer los valores de varias otras propiedades CSS simultáneamente.
-<div style="display:none;"> <ul>
+<div hidden> <ul>
                 <li>1</li>
                 <li>2</li>
             </ul></div>
