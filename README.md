@@ -18,6 +18,12 @@ min-height: define el alto minimo de un elemento (no puede medir menos de este a
 
 overflow;hidden; esconde lo que se desborda
 
+shorthand: permiten establecer los valores de varias otras propiedades CSS simultáneamente.
+<div style="display:none;"> <ul>
+                <li>1</li>
+                <li>2</li>
+            </ul></div>
+
 PADDING
 padding: relleno que separa el contenido del border
 
@@ -36,9 +42,12 @@ padding: top-bottom right-left
 Usando 1 valor se aplica a tos los lados de igual manera 
 BORDER
 
-border-color: cambio de color
-borde-width: define el ancho del border
-border-style: define el estilo del border(solid, )
+border-color: cambio de color (colocar los nombres de los colores en ingles)
+
+borde-width: define el ancho del border(podemos colocar el grosor del borde en medidas ej: px)(si usas visual studio code apresiona control + espacio para ver la diferentes unidades)
+
+border-style: define el estilo del border (Solid, Dotted, Dashed, Double, Ridge. estos son algunos, practica y prueba 
+a gusto)
 
 
 
